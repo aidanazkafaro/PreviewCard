@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](FrontEndMentor Challange\Preview Card\3-column-preview-card-component-main\images\screenshot.jpg)
+![Result](images/screenshot.jpg)
 
 ### Links
 
