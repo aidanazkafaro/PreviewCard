@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+    background-color: white;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  width: 90%;
+  margin-top: 130px;
+  margin-bottom: 80px;
+  
+}
+
+.item {
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 20px;
+  font-size: 30px;
+  height: 450px;
+  width: 300px;
+  
+}
+
+.left-item{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: hsl(31, 77%, 52%);
+}
+
+.mid-item{
+  background-color: hsl(184, 100%, 22%);
+}
+
+.right-item{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: hsl(179, 100%, 13%);
+}
+
+.logo{
+  position: relative;
+  left: 30px;
+  width: 20%;
+  margin-top: 30px;
+  
+}
+.car-type{
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+  color: hsl(0, 0%, 95%);
+  font-size: 40px;
+  position: relative;
+  left: 30px;
+  display: block;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.car-text{
+  font-family: 'Lexend Deca', sans-serif;
+  /* font-weight: 200px; */
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  position: relative;
+  left: 30px;
+  display: block;
+  width: 70%;
+  height: 30%;
+  margin-top: 30px;
+  line-height: 25px;
+
+}
+
+.button {
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  border-radius: 40px;
+  position: relative;
+  left: 30px;
+  width: 70%;
+  margin-top: 40px;
+  
+}
+
+.button1{
+  background-color: white;
+  color: hsl(31, 77%, 52%);
+}
+.button1:hover {
+  background-color: hsl(31, 77%, 52%);
+  color: white;
+  border: 2px solid white;
+}
+
+.button2{
+  background-color: white;
+  color: hsl(184, 100%, 22%);
+}
+.button2:hover {
+  background-color: hsl(184, 100%, 22%);
+  color: white;
+  border: 2px solid white;
+}
+
+.button3{
+  background-color: white;
+  color: hsl(179, 100%, 13%);
+}
+.button3:hover {
+  background-color: hsl(179, 100%, 13%);
+  color: white;
+  border: 2px solid white;
+}
+
+
