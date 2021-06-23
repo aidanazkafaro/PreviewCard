@@ -51,7 +51,7 @@ Also, the button hover part is a new thing for me. I found it cool to use the tr
 
 ### Continued development
 
-I will continue to learn to make modern and simple landing pages like this one. After finishing 3-4 projects, i will learn about javascript and other front-end frameworks. Then, maybe i will start going deep down to the back-end part of the website.
+I will continue to learn to make modern and simple landing pages like this one. After finishing 3-4 projects, i will learn about javascript and other front-end frameworks. Then,  i will start going deep down to the back-end part of the website.
 
 ### Useful resources
 
